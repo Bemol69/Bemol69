@@ -1,6 +1,6 @@
 # Bryan Piña - AI Systems Developer
 
-**Ingeniero en Informática** @ Duoc UC  
+**Ingeniero en Informática** 
 Especializado en: Inteligencia Artificial, Automatización, Sistemas RAG
 
 ## 🚀 Proyectos Destacados
